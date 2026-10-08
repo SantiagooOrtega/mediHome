@@ -12,12 +12,3 @@ Sistema de atención médica domiciliaria. Implementación en Java 21 del diagra
 
 - Imagen: `diagrama/Paradigm.jpeg`
 - Fuente (Visual Paradigm): carpeta `diagrama/` (archivo `.vpp`)
-
-## Ejecución
-
-Requiere Java 21.
-
-```bash
-javac -d out src/medihome/*.java
-java -cp out medihome.Main
-```
